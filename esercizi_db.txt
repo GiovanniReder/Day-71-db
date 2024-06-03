@@ -1,0 +1,11 @@
+1- SELECT * FROM cliente WHERE nome='mario'
+2- SELECT nome, cognome FROM cliente WHERE anno_di_nascita = 1982
+3- SELECT * FROM fatture WHERE iva = 20
+4- SELECT * FROM prodotti WHERE EXTRACT(YEAR FROM data_attivazione) = 2017 AND in_produzione=true AND in_commercio=true;
+5- SELECT * FROM fatture where importo<1000
+6-
+7-
+8-
+9-
+10-
+11-
